@@ -4,7 +4,7 @@
 
 ## Available Scripts
 
-Before project run you need to install all necessary dependencies:
+Before project run you need to install all necessary dependencies (node versions >=12):
 
 ### `npm install`
 
