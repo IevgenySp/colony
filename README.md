@@ -1,6 +1,6 @@
 # Colony simulation
 
-[Colony simulation](public/colony.png)
+![Colony simulation](public/colony.png)
 
 ## Available Scripts
 
