@@ -4,11 +4,11 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
+Before project run you need to install all necessary dependencies:
 
 ### `npm install`
 
-Install all necessary dependencies.
+Then in the project directory, you can run:
 
 ### `npm start`
 
