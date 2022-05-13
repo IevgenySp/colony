@@ -1,0 +1,11 @@
+.container {
+  background: #ebebeb;
+  box-sizing: border-box;
+  //border: 1px solid #7d7d7d;
+  border-radius: 3px;
+  margin: 1px;
+}
+
+.container.alive {
+  background: #000000;
+}

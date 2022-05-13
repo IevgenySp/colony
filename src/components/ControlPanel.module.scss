@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background: #1f314d;
+  -webkit-box-shadow: 0px 7px 5px -3px rgba(0,0,0,0.52);
+  -moz-box-shadow: 0px 7px 5px -3px rgba(0,0,0,0.52);
+  box-shadow: 0px 7px 5px -3px rgba(0,0,0,0.52);
+  .label {
+    position: absolute;
+    color: #ebebeb;
+    left: 10px;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  .tick {
+    color: #ebebeb;
+    font-size: 14px;
+    padding: 10px;
+  }
+}
